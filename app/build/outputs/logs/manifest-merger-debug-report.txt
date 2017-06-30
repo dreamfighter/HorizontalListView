@@ -1,0 +1,54 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:2:5-52
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:multidex:1.0.1] /home/zeger/.android/build-cache/74d1834701381da5dbd7963bb9656e3282b9a9a1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/zeger/.android/build-cache/594cbcde074fd4b6652d1ec63e0a65d08fff0a0d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/zeger/.android/build-cache/edf81360a86dbd52f28079b6d4932f669db1997d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/zeger/.android/build-cache/468637a6ae3912ba4f2a67879a14feb912439784/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/zeger/.android/build-cache/0f1e6541cb73be5b23e4cba998adc5b273909159/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/zeger/.android/build-cache/f75c27df796a893bb43c074e93fad8f819a5bad2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/zeger/.android/build-cache/724bd1f99b554a3311dda2236dc0eab2f49ca654/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/zeger/.android/build-cache/594cbcde074fd4b6652d1ec63e0a65d08fff0a0d/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zeger/git/HorizontalListView/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/zeger/.android/build-cache/594cbcde074fd4b6652d1ec63e0a65d08fff0a0d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/zeger/.android/build-cache/edf81360a86dbd52f28079b6d4932f669db1997d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/zeger/.android/build-cache/468637a6ae3912ba4f2a67879a14feb912439784/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/zeger/.android/build-cache/0f1e6541cb73be5b23e4cba998adc5b273909159/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/zeger/.android/build-cache/f75c27df796a893bb43c074e93fad8f819a5bad2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/zeger/.android/build-cache/724bd1f99b554a3311dda2236dc0eab2f49ca654/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/zeger/.android/build-cache/594cbcde074fd4b6652d1ec63e0a65d08fff0a0d/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/zeger/.android/build-cache/594cbcde074fd4b6652d1ec63e0a65d08fff0a0d/output/AndroidManifest.xml:26:9-47
+application
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] /home/zeger/.android/build-cache/594cbcde074fd4b6652d1ec63e0a65d08fff0a0d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/zeger/.android/build-cache/edf81360a86dbd52f28079b6d4932f669db1997d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/zeger/.android/build-cache/468637a6ae3912ba4f2a67879a14feb912439784/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/zeger/.android/build-cache/0f1e6541cb73be5b23e4cba998adc5b273909159/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/zeger/.android/build-cache/f75c27df796a893bb43c074e93fad8f819a5bad2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/zeger/.android/build-cache/724bd1f99b554a3311dda2236dc0eab2f49ca654/output/AndroidManifest.xml:29:5-20
